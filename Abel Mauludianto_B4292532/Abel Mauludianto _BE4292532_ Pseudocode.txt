@@ -1,0 +1,17 @@
+Start
+  CHOOSE ordered food
+  	IF food is suitabel
+		determine the customer location
+  	ELSE 
+		the customer select the menu
+  THEN 
+  food ordering process
+  SHOW the total amount of food ordered
+  PAY for orders that have been ordered
+  CHOOSE PAY METHOD 
+	IF
+		Tunai / Cash
+	ELSE
+		Gopay / Ovo
+  Order 
+  Finish
